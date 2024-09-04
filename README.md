@@ -1,3 +1,5 @@
+# MINERVA
+
 MINERVA is a small program for experimenting with the Health Layer Seven (HL7) communication protocol used in the healthcare industry.
 The healthcare industry has a large problem with disparate software applications being unable to communicate with each other, or not communicate as well as they should be.
 This was a proof-of-concept I made to investigate using HL7 to improve communication between the Radiation Oncology department's ARIA system and the hospital's EPIC EHR during my time working at Lahey Hospital.
